@@ -66,6 +66,17 @@ contract PostQuantumWallet {
 ```
 
 # Expected Output:
+
+![Screenshot 2025-05-10 092925](https://github.com/user-attachments/assets/8a6820ae-0fc1-4bf6-babe-933351355a51)
+
+![image](https://github.com/user-attachments/assets/287d7936-59e1-41ab-b1ec-4c8a63035886)
+
+![image](https://github.com/user-attachments/assets/225848d6-eeec-4c1d-a60f-67012828e643)
+
+![image](https://github.com/user-attachments/assets/9414aace-55a6-4257-86d0-7bf03cc44ce4)
+
+![image](https://github.com/user-attachments/assets/5745e976-91d9-48d9-a8b5-fa98f0a8d20d)
+
 Users register using a post-quantum secure public key.
 
 
